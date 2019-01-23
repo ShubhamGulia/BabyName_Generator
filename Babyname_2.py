@@ -1,3 +1,8 @@
+# random library for generating random data
+# string for usings alphabets and functions like ascii_lowercase
+
+# Shubham Gulia
+#--------------------------------------------------------------------------------------------------------
 import  random, string
 
 #lets now ask user for some input
